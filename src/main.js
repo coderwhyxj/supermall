@@ -11,7 +11,7 @@ Vue.prototype.$EventBus = new Vue()
 
 //使用图片懒加载
 Vue.use(vuelazyload,{
-  //loading:require('@/assets/imgs/2.jpg')
+  //loading:require('@/assets/imgs/2.jpg'1)
 })
 
 new Vue({
